@@ -2,16 +2,25 @@
 GitHub Repo Analyser is a smart tool that scans repositories to deliver concise insights, including code structure, key metrics, and activity trends. It helps developers quickly understand projects, track performance, and make informed decisions efficiently.
 
 Features
+
  Repository Analysis – Extracts and analyzes repo structure
+ 
  Tech Stack Detection – Identifies languages & frameworks used
+ 
  Architecture Insights – Understands project organization
+ 
  Code Metrics – Generates useful repo statistics
+ 
  AI Suggestions – Recommends improvements using LLM reasoning
 
 🛠️ Tech Stack
+
 Backend: FastAPI
+
 Language: Python
+
 AI Integration: LLM-based reasoning module
+
 GitHub Integration: Custom API client
 
 📂 Project Structure
